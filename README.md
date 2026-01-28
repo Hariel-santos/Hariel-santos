@@ -17,6 +17,15 @@ Me chamo Hariel Pereira dos Santos, tenho 21 anos e sou natural de Mato Grosso D
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+</p>
+<img 
+    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -30,6 +39,14 @@ Me chamo Hariel Pereira dos Santos, tenho 21 anos e sou natural de Mato Grosso D
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 <img 
     align="left" 
@@ -70,15 +87,7 @@ Me chamo Hariel Pereira dos Santos, tenho 21 anos e sou natural de Mato Grosso D
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>   
+/> 
 </P>     
 <img 
     align="left" 
@@ -94,18 +103,15 @@ Me chamo Hariel Pereira dos Santos, tenho 21 anos e sou natural de Mato Grosso D
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="
-    https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" 
 />
-
 <img 
     align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="
-    https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" 
 />
 
 <br/>
