@@ -125,7 +125,7 @@ Me chamo Hariel Pereira dos Santos, tenho 21 anos e sou natural de Mato Grosso D
       align="left" 
       alt="GitHub Stats" 
       height="400" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariel-Santos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariel-santos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
